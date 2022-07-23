@@ -1,0 +1,1 @@
+{"name":"Local: col","url":"c:\\11myDrive\\myPgms\\sir\\col.cpp","tests":[{"id":1631514539463,"input":"10\na b b b c c c a f c","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\11myDrive\\myPgms\\sir\\col.cpp","group":"local","local":true}

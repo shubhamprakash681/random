@@ -1,0 +1,1 @@
+{"name":"Local: dup","url":"c:\\11myDrive\\myPgms\\sir\\dup.c","tests":[{"id":1630069482239,"input":"car batman latt matter cat matter cat","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\11myDrive\\myPgms\\sir\\dup.c","group":"local","local":true}

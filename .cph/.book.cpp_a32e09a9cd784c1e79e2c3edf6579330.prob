@@ -1,0 +1,1 @@
+{"name":"Local: book","url":"c:\\11myDrive\\myPgms\\sir\\book.cpp","tests":[{"id":1633094497568,"input":"6\n6\n4\n5\n5\n5\n5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\11myDrive\\myPgms\\sir\\book.cpp","group":"local","local":true}

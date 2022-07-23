@@ -1,0 +1,1 @@
+{"name":"Local: specChar","url":"c:\\11myDrive\\myPgms\\sir\\specChar.c","tests":[{"id":1630663406412,"input":"ba@t boat@ Bo@ot","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\11myDrive\\myPgms\\sir\\specChar.c","group":"local","local":true}
